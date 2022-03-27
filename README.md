@@ -4,7 +4,7 @@
 Join https://t.me/XtraTgBot for updates and tuts
 ### The Easy Way
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Prince-Mendiratta/X-tra-Telegram)
 
 
 ### UniBorg Configuration
